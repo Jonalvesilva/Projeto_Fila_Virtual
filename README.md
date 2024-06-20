@@ -9,14 +9,14 @@
   <img src="https://github.com/Jonalvesilva/Jonalvesilva/blob/main/tailwind.png" alt="tailwind" heigth=40 width=40/>
 </p>
 <h2>Demonstração</h2>
-<p>Site: https://projeto-tela-login-site.vercel.app/</p>
+<p>Site: https://projeto-fila-virtual.vercel.app/</p>
 <h2>Como Começar</h2>
 <p>Para começar a usar o projeto, siga estas etapas simples:</p>
 <p>1. Clone o repositório para o seu ambiente local:</p>
 <div style="background-color:#f0f0f0;">
   <pre>
     <code>
-      git clone https://github.com/Jonalvesilva/Projeto_Tela_Login.git
+      git clone https://github.com/Jonalvesilva/Projeto_Fila_Virtual.git
     </code>
   </pre>
 </div>
@@ -41,9 +41,9 @@
 <h2>Fotos</h2>
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1cTFVX2s67B9Rqe3lxbOLQdNusfLTF8Tl" 
+    <td><img src="https://drive.google.com/uc?export=view&id=11WOsUW8ZKQjdV7wFORVXcty_wCLiL0BW" 
           width=500/></td>
-    <td> <img src="https://drive.google.com/uc?export=view&id=12sJUAxpAVre2UMiDKby2LZxVHd3_sqYX" 
+    <td> <img src="https://drive.google.com/uc?export=view&id=17MM20i1vV4vijA13Mrua4mjvP0ovE-qA" 
            width=500/></td>
   </tr>
 </table>
